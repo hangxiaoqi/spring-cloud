@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-config-server" />
+        <module name="cloud-eureka-server" />
+        <module name="cloud-hystrix-dashboard" />
+        <module name="cloud-zuul-server" />
+        <module name="user-service-api" />
+        <module name="user-service-client" />
+        <module name="user-service-provider" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
